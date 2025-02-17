@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<InformationRegister uuid="7a13debf-9f6d-4974-91c7-eafc700c9d1c">
+		<InternalInfo>
+			<xr:GeneratedType name="InformationRegisterRecord.Тест_Биллинг" category="Record">
+				<xr:TypeId>09161333-3726-42cd-8350-1a48af42b005</xr:TypeId>
+				<xr:ValueId>4abdafa0-fe57-46de-ab2e-154ad08696ad</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterManager.Тест_Биллинг" category="Manager">
+				<xr:TypeId>3457ddb3-f55d-49b4-bba1-bd5932f53766</xr:TypeId>
+				<xr:ValueId>2bcef643-766b-4c83-bdfd-3051d76e8237</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterSelection.Тест_Биллинг" category="Selection">
+				<xr:TypeId>c23d8e88-460d-4730-8433-ca2935ebdda2</xr:TypeId>
+				<xr:ValueId>14f7ea43-dc35-4e12-92c8-c6e52ec3dae7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterList.Тест_Биллинг" category="List">
+				<xr:TypeId>05afdd6e-f375-4235-a091-3e5e531f1219</xr:TypeId>
+				<xr:ValueId>4dcbb583-8b0b-4084-9e94-9703d6ed5725</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordSet.Тест_Биллинг" category="RecordSet">
+				<xr:TypeId>5cf09220-6b8b-4112-8544-2e5f40298a5f</xr:TypeId>
+				<xr:ValueId>c931cd7e-ae69-41fa-aff5-19a4ab97cb6e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.Тест_Биллинг" category="RecordKey">
+				<xr:TypeId>86c820f7-b17e-4e9d-ad13-95a6af78a985</xr:TypeId>
+				<xr:ValueId>6ca92eb4-e63b-4476-8f6f-56f3ee267ac0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.Тест_Биллинг" category="RecordManager">
+				<xr:TypeId>37795686-7423-433e-94f1-980018b75202</xr:TypeId>
+				<xr:ValueId>ef8cc8e2-cfd9-4904-917a-0349f107a56e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Тест_Биллинг</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Тест биллинг</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>true</UseStandardCommands>
+			<EditType>InDialog</EditType>
+			<DefaultRecordForm/>
+			<DefaultListForm/>
+			<AuxiliaryRecordForm/>
+			<AuxiliaryListForm/>
+			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+			<MainFilterOnPeriod>false</MainFilterOnPeriod>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<DataLockControlMode>Managed</DataLockControlMode>
+			<FullTextSearch>DontUse</FullTextSearch>
+			<EnableTotalsSliceFirst>false</EnableTotalsSliceFirst>
+			<EnableTotalsSliceLast>false</EnableTotalsSliceLast>
+			<RecordPresentation/>
+			<ExtendedRecordPresentation/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<DataHistory>DontUse</DataHistory>
+			<UpdateDataHistoryImmediatelyAfterWrite>false</UpdateDataHistoryImmediatelyAfterWrite>
+			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
+		</Properties>
+		<ChildObjects/>
+	</InformationRegister>
+</MetaDataObject>

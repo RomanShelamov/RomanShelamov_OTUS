@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<InformationRegister uuid="3ad8e176-6edd-4bab-a6ab-f7cab10ffc90">
+		<InternalInfo>
+			<xr:GeneratedType name="InformationRegisterRecord.Тест_ОбъектыИСостояния" category="Record">
+				<xr:TypeId>8e02ef00-5b4b-4378-8e3f-f023e0169e7e</xr:TypeId>
+				<xr:ValueId>cac3c2d2-183d-4ba6-91d2-4a245a399f25</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterManager.Тест_ОбъектыИСостояния" category="Manager">
+				<xr:TypeId>7f998c5c-3c49-46b1-9510-e7f582f3fe14</xr:TypeId>
+				<xr:ValueId>ee903e63-da12-4226-b748-e75e7c76382e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterSelection.Тест_ОбъектыИСостояния" category="Selection">
+				<xr:TypeId>c2dcbf72-a84b-4729-8618-59ee1b505373</xr:TypeId>
+				<xr:ValueId>27398807-36d2-418d-8932-21b48d10c70f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterList.Тест_ОбъектыИСостояния" category="List">
+				<xr:TypeId>e8d2177b-8b8e-46ec-b6fd-d04fd41be236</xr:TypeId>
+				<xr:ValueId>1e936682-6b6d-4818-99d4-5f85a3653891</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordSet.Тест_ОбъектыИСостояния" category="RecordSet">
+				<xr:TypeId>2c11dbed-65eb-4148-9f74-10eccc82e968</xr:TypeId>
+				<xr:ValueId>147f82e1-9c1a-4a00-9e90-cb42db3ca87a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.Тест_ОбъектыИСостояния" category="RecordKey">
+				<xr:TypeId>d5030931-3a8e-48af-87a9-faf20b2280d3</xr:TypeId>
+				<xr:ValueId>037cb576-cfac-49e7-b86b-584d218cc242</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.Тест_ОбъектыИСостояния" category="RecordManager">
+				<xr:TypeId>0b88720c-2b84-4709-a95a-14a758089215</xr:TypeId>
+				<xr:ValueId>2e4d5ac8-3fc4-4615-8e2b-e8fdcf783d7a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Тест_ОбъектыИСостояния</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Тест объекты и состояния</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>true</UseStandardCommands>
+			<EditType>InDialog</EditType>
+			<DefaultRecordForm/>
+			<DefaultListForm/>
+			<AuxiliaryRecordForm/>
+			<AuxiliaryListForm/>
+			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+			<MainFilterOnPeriod>false</MainFilterOnPeriod>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<DataLockControlMode>Managed</DataLockControlMode>
+			<FullTextSearch>DontUse</FullTextSearch>
+			<EnableTotalsSliceFirst>false</EnableTotalsSliceFirst>
+			<EnableTotalsSliceLast>false</EnableTotalsSliceLast>
+			<RecordPresentation/>
+			<ExtendedRecordPresentation/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<DataHistory>DontUse</DataHistory>
+			<UpdateDataHistoryImmediatelyAfterWrite>false</UpdateDataHistoryImmediatelyAfterWrite>
+			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
+		</Properties>
+		<ChildObjects/>
+	</InformationRegister>
+</MetaDataObject>
